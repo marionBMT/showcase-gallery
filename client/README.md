@@ -7,7 +7,7 @@ Data and images are stored in MongoDB Atlas.
 **Section:** INF233
  
 ## Live Links
-- Website (Vercel): https://showcase-gallery-marion.vercel.app
+- Website (Vercel): https://showcase-gallery-two.vercel.app
 - API (Render): https://showcase-gallery-marion.onrender.com
  
 ## Tech Stack
